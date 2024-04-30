@@ -1,0 +1,61 @@
+Date of Admission: 3/3/2015
+
+Chief Complaint: Shortness of breath and cough
+
+History of Present Illness:
+Mr. Steven Chou is a 65-year-old male with a past medical history significant for diabetes, atrial fibrillation, hypertension, and cholecystectomy, who presents to the hospital with a 3-day history of progressive shortness of breath and productive cough. The patient reports that his cough has been producing yellowish sputum, and he has been experiencing fever and chills. He denies chest pain, hemoptysis, or recent travel.
+
+Past Medical History:
+1. Diabetes
+2. Atrial fibrillation
+3. Hypertension
+4. Cholecystectomy
+
+Medications:
+1. Eliquis
+2. Lisinopril
+3. Aspirin
+4. Plavix
+5. Metoprolol
+6. Simvastatin
+
+Allergies: No known drug allergies
+
+Social History:
+The patient is a retired accountant. He denies smoking, alcohol use, or illicit drug use.
+
+Family History:
+Father died of a heart attack at age 72, mother with a history of hypertension.
+
+Review of Systems:
+General: Fatigue, fever, chills
+HEENT: No headache, sore throat, or ear pain
+Cardiovascular: No chest pain or palpitations
+Respiratory: Shortness of breath, cough with yellowish sputum
+Gastrointestinal: No abdominal pain, nausea, or vomiting
+Genitourinary: No dysuria or hematuria
+Musculoskeletal: No joint pain or swelling
+Neurological: No focal weakness or numbness
+Skin: No rash or lesions
+
+Physical Examination:
+Vital Signs: Temperature 101.5°F, Blood Pressure 138/84 mmHg, Heart Rate 96 bpm, Respiratory Rate 24 breaths/min, SpO2 92% on room air
+General: Appears ill, in mild respiratory distress
+HEENT: No signs of conjunctival pallor or icterus, oropharynx clear
+Neck: No lymphadenopathy or JVD
+Cardiovascular: Irregular rhythm, no murmurs, rubs, or gallops
+Respiratory: Diminished breath sounds in the right lower lobe, crackles present, no wheezes
+Abdomen: Soft, non-tender, non-distended, no organomegaly
+Extremities: No edema, cyanosis, or clubbing
+Neurological: Alert and oriented x3, no focal deficits
+
+Assessment and Plan:
+65-year-old male with a history of diabetes, atrial fibrillation, and hypertension presenting with shortness of breath, cough, and fever, consistent with pneumonia.
+
+1. Admit to the medical floor for further management
+2. Start supplemental oxygen to maintain SpO2 >92%
+3. Obtain chest X-ray, complete blood count, comprehensive metabolic panel, and sputum culture
+4. Start empiric antibiotic therapy with ceftriaxone and azithromycin
+5. Continue home medications: Eliquis, lisinopril, aspirin, Plavix, metoprolol, and simvastatin
+6. Monitor vital signs, oxygen saturation, and clinical status closely
+7. Consult pulmonology if respiratory status deteriorates or if patient fails to improve with initial management

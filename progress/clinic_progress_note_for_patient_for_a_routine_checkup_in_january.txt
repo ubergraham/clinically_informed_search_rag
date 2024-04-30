@@ -1,0 +1,57 @@
+Patient Name: Steven Chou
+DOB: 01/07/1959 (65 years old)
+Date of Visit: January [insert date], 2024
+
+Chief Complaint:
+Mr. Chou presents to the clinic for a routine checkup.
+
+History of Present Illness:
+Mr. Chou is a 65-year-old male with a past medical history of diabetes, atrial fibrillation, hypertension, and cholecystectomy. He reports no new complaints and states that his chronic conditions have been well-controlled with his current medications. He denies any chest pain, shortness of breath, palpitations, or dizziness. He also reports no abdominal pain, changes in bowel habits, or bleeding.
+
+Current Medications:
+1. Eliquis [insert dose]
+2. Lisinopril [insert dose]
+3. Aspirin [insert dose]
+4. Plavix [insert dose]
+5. Metoprolol [insert dose]
+6. Simvastatin [insert dose]
+
+Allergies:
+No known drug allergies.
+
+Review of Systems:
+- General: No fatigue, fever, chills, or unintentional weight changes.
+- Cardiovascular: No chest pain, palpitations, or edema.
+- Respiratory: No shortness of breath, cough, or wheezing.
+- Gastrointestinal: No abdominal pain, nausea, vomiting, or changes in bowel habits.
+- Genitourinary: No dysuria, frequency, or urgency.
+- Neurological: No headaches, dizziness, or focal neurological deficits.
+- Endocrine: No polyuria, polydipsia, or polyphagia.
+
+Physical Examination:
+- Vital Signs: BP [insert], HR [insert], RR [insert], Temp [insert], SpO2 [insert]
+- General: Well-appearing, no acute distress.
+- Cardiovascular: Regular rate and rhythm, no murmurs, rubs, or gallops.
+- Respiratory: Clear to auscultation bilaterally, no wheezes, rales, or rhonchi.
+- Abdomen: Soft, non-tender, non-distended, normal bowel sounds. Surgical scar from cholecystectomy well-healed.
+- Extremities: No edema, cyanosis, or clubbing.
+- Neurological: Alert and oriented x3, no focal deficits.
+
+Assessment and Plan:
+1. Diabetes: Well-controlled. Continue current management. Order HbA1c and fasting blood glucose.
+2. Atrial fibrillation: Stable on Eliquis. Continue current dose. Order EKG.
+3. Hypertension: Blood pressure at goal. Continue current medications.
+4. Cholecystectomy: No complications, surgical site well-healed.
+5. Hyperlipidemia: Continue simvastatin. Order lipid panel.
+
+Orders:
+- HbA1c, fasting blood glucose, lipid panel, EKG
+- Follow-up in 3 months or sooner if needed
+
+Education:
+- Encouraged patient to maintain a healthy diet, exercise regularly, and monitor blood glucose and blood pressure at home.
+- Advised patient to report any new or worsening symptoms.
+
+Signature:
+[Your Name], MD
+Senior Medical Resident

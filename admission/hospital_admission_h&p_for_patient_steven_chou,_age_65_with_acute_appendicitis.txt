@@ -1,0 +1,73 @@
+Date of Admission: 1/1/2011
+
+Chief Complaint: Acute abdominal pain
+
+History of Present Illness:
+Steven Chou is a 65-year-old male with a past medical history of diabetes, atrial fibrillation, hypertension, and cholecystectomy, who presents to the emergency department with acute onset of right lower quadrant abdominal pain that began approximately 12 hours ago. The pain is described as constant, sharp, and non-radiating, with an intensity of 8/10. He reports associated nausea, but denies vomiting, fever, chills, or changes in bowel habits. The patient has not experienced similar symptoms in the past.
+
+Past Medical History:
+1. Diabetes
+2. Atrial fibrillation
+3. Hypertension
+4. Cholecystectomy
+
+Medications:
+1. Eliquis
+2. Lisinopril
+3. Aspirin
+4. Plavix
+5. Metoprolol
+6. Simvastatin
+
+Allergies: No known drug allergies
+
+Family History: Non-contributory
+
+Social History: 
+- Tobacco: Denies smoking
+- Alcohol: Occasional social drinker
+- Illicit drugs: Denies use
+
+Review of Systems:
+- General: No fever, chills, or weight loss
+- HEENT: No headache, vision changes, or sore throat
+- Cardiovascular: No chest pain or palpitations
+- Respiratory: No shortness of breath or cough
+- Gastrointestinal: Positive for abdominal pain and nausea, negative for vomiting or changes in bowel habits
+- Genitourinary: No dysuria, frequency, or urgency
+- Musculoskeletal: No joint pain or swelling
+- Neurological: No focal deficits or sensory changes
+- Skin: No rashes or lesions
+
+Physical Examination:
+- Vital Signs: Temperature 99.1°F, Blood Pressure 138/84 mmHg, Heart Rate 92 bpm, Respiratory Rate 18/min, SpO2 98% on room air
+- General: Alert and oriented, appears uncomfortable due to pain
+- HEENT: Normocephalic, atraumatic, PERRLA, no scleral icterus
+- Neck: No lymphadenopathy, no JVD, no thyromegaly
+- Cardiovascular: Regular rate and rhythm, no murmurs, rubs, or gallops
+- Respiratory: Clear to auscultation bilaterally, no wheezes, rales, or rhonchi
+- Abdomen: Soft, tender to palpation in the right lower quadrant with rebound tenderness and guarding, positive McBurney's point, no masses or organomegaly, normal bowel sounds
+- Extremities: No edema, cyanosis, or clubbing
+- Neurological: Alert and oriented x3, cranial nerves II-XII intact, motor strength 5/5 in all extremities, sensation intact
+
+Assessment and Plan:
+65-year-old male with a history of diabetes, atrial fibrillation, hypertension, and cholecystectomy presenting with acute right lower quadrant abdominal pain, consistent with acute appendicitis.
+
+1. Acute appendicitis
+   - Obtain CBC, CMP, lipase, urinalysis, and CT abdomen/pelvis with contrast to confirm the diagnosis and rule out other etiologies
+   - Consult general surgery for evaluation and management
+   - Administer IV fluids, antibiotics (Ceftriaxone and Metronidazole), and pain control as needed
+   - Monitor vital signs and clinical status closely
+2. Diabetes
+   - Check blood glucose levels and HbA1c
+   - Continue home medications and adjust insulin regimen as needed
+3. Atrial fibrillation
+   - Continue Eliquis and monitor for signs of bleeding
+   - Obtain baseline EKG and telemetry monitoring
+4. Hypertension
+   - Continue home medications (Lisinopril, Metoprolol) and monitor blood pressure closely
+5. Cholecystectomy
+   - Obtain surgical history and ensure no complications related to the previous surgery
+6. DVT prophylaxis
+   - Initiate mechanical prophylaxis with sequential compression devices
+   - Assess the need for pharmacological prophylaxis based on surgical recommendations and bleeding risk

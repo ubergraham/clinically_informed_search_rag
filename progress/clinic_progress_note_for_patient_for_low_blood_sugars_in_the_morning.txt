@@ -1,0 +1,54 @@
+Patient: Steven Chou
+DOB: 01/07/1959 (65 years old)
+Date of Visit: [Insert Date]
+
+Chief Complaint: Low blood sugars in the morning
+
+History of Present Illness:
+Mr. Steven Chou, a 65-year-old male with a past medical history significant for diabetes, atrial fibrillation, hypertension, and cholecystectomy, presents to the clinic with concerns of low blood sugars in the morning. The patient reports experiencing symptoms of shakiness, sweating, and dizziness upon waking up, which improve after eating. He denies any recent changes in his diet, exercise routine, or medication regimen.
+
+Current Medications:
+- Eliquis [Insert Dose]
+- Lisinopril [Insert Dose]
+- Aspirin [Insert Dose]
+- Plavix [Insert Dose]
+- Metoprolol [Insert Dose]
+- Simvastatin [Insert Dose]
+- [Insert diabetes medications and doses]
+
+Allergies: [Insert any known allergies or NKDA if none]
+
+Review of Systems:
+- General: No fever, chills, or unintentional weight loss
+- Cardiovascular: No chest pain, palpitations, or edema
+- Neurological: No headaches, dizziness, or numbness
+- Endocrine: Reports low blood sugars in the morning, no polyuria or polydipsia
+
+Physical Examination:
+- Vital Signs: [Insert BP, HR, RR, Temp, SpO2]
+- General: Well-appearing, no acute distress
+- Cardiovascular: Regular rate and rhythm, no murmurs, rubs, or gallops
+- Neurological: Alert and oriented x3, no focal deficits
+- Skin: No rashes, ulcers, or wounds
+
+Assessment and Plan:
+Mr. Steven Chou is a 65-year-old male with a history of diabetes presenting with low blood sugars in the morning.
+
+1. Low morning blood sugars:
+   - Obtain detailed blood glucose log, including bedtime and morning values
+   - Review current diabetes medications and consider adjusting doses or timing
+   - Educate patient on proper glucose monitoring and management of hypoglycemia
+   - Consider referral to diabetes educator for further education and support
+   - Schedule follow-up in 2-4 weeks to reassess blood sugar control
+
+2. Diabetes: Continue current management, monitor for complications
+
+3. Atrial fibrillation: Continue Eliquis, monitor for any bleeding or stroke symptoms
+
+4. Hypertension: Continue lisinopril and metoprolol, monitor blood pressure control
+
+5. Hyperlipidemia: Continue simvastatin, order lipid panel if not done within the past year
+
+6. Update all recommended preventive care and screenings
+
+Follow-up: 2-4 weeks for reassessment of morning blood sugars and medication adjustments as needed. Continue regular follow-ups for chronic condition management.

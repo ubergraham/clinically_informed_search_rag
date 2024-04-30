@@ -1,0 +1,59 @@
+Date: [Today's Date]
+
+Patient Name: Steven Chou
+DOB: January 7, 1959 (65 years old)
+MRN: [Medical Record Number]
+
+Chief Complaint: Cholesterol screening
+
+History of Present Illness:
+Mr. Steven Chou, a 65-year-old male with a past medical history significant for diabetes, atrial fibrillation, hypertension, and cholecystectomy, presents to the clinic for a routine cholesterol screening. The patient reports no new symptoms or concerns. He denies chest pain, shortness of breath, palpitations, or dizziness. He adheres to his prescribed medications, which include Eliquis, Lisinopril, Aspirin, Plavix, Metoprolol, and Simvastatin.
+
+Past Medical History:
+1. Diabetes
+2. Atrial fibrillation
+3. Hypertension
+4. Cholecystectomy
+
+Medications:
+1. Eliquis
+2. Lisinopril
+3. Aspirin
+4. Plavix
+5. Metoprolol
+6. Simvastatin
+
+Allergies: No known drug allergies
+
+Social History:
+- Tobacco: Denies current use
+- Alcohol: Occasional social drinking
+- Illicit drugs: Denies use
+
+Review of Systems:
+- General: No fatigue, fever, or unintentional weight changes
+- Cardiovascular: No chest pain, palpitations, or edema
+- Respiratory: No shortness of breath or cough
+- Gastrointestinal: No abdominal pain, nausea, or vomiting
+- Neurological: No headaches, dizziness, or focal neurological deficits
+
+Physical Examination:
+- Vital Signs: BP 128/78, HR 72 (regular), RR 16, Temp 98.6°F, SpO2 98% on room air
+- General: Well-appearing, no acute distress
+- Cardiovascular: Regular rate and rhythm, no murmurs, rubs, or gallops
+- Respiratory: Clear to auscultation bilaterally, no wheezes, rales, or rhonchi
+- Abdomen: Soft, non-tender, non-distended, normal bowel sounds
+- Extremities: No edema, cyanosis, or clubbing
+
+Assessment and Plan:
+Mr. Steven Chou is a 65-year-old male with a history of diabetes, atrial fibrillation, hypertension, and cholecystectomy, presenting for a routine cholesterol screening. The patient is currently asymptomatic and compliant with his medications.
+
+1. Order lipid panel and review results
+2. Continue current medications for diabetes, atrial fibrillation, and hypertension management
+3. Encourage lifestyle modifications, including a heart-healthy diet and regular exercise
+4. Schedule a follow-up appointment in 3 months to reassess cholesterol levels and adjust treatment if necessary
+5. Reinforce the importance of medication adherence and self-monitoring of blood pressure and blood glucose levels at home
+
+[Signature]
+[Resident Name], MD
+[Attending Physician Name], MD

@@ -1,0 +1,44 @@
+Patient Name: Steven Chou
+DOB: 01/07/1959 (65 years old)
+Proceduralist: Lizzie Ross, MD
+
+Procedure Date: 8/10/2017
+Procedure Time: 10:00
+Procedure Location: GI Lab
+
+Pre-Procedure Diagnosis: Gastrointestinal bleeding
+
+Post-Procedure Diagnosis: Severe diverticulosis
+
+Procedure Performed: Diagnostic colonoscopy
+
+Indications: The patient is a 65-year-old male with a history of diabetes, atrial fibrillation, high blood pressure, hypertension, and cholecystectomy, who presented with gastrointestinal bleeding. The patient is on Eliquis for atrial fibrillation.
+
+Procedure Details:
+Informed consent was obtained from the patient after discussing the risks, benefits, and alternatives to the procedure. The patient was placed in the left lateral decubitus position. Anesthesia was administered by [Insert Anesthesiologist's Name].
+
+The colonoscope was introduced through the anus and advanced under direct visualization. The scope was advanced to the cecum, and the mucosa was inspected thoroughly during both insertion and withdrawal. The quality of the bowel preparation was good.
+
+Findings:
+The colonoscopy revealed severe diverticulosis throughout the colon, with multiple large diverticula noted in the sigmoid and descending colon. No active bleeding was observed during the procedure. The mucosa appeared normal, with evidence of 3 small polyps ~5mm each in the transverse colon which were removed and sent to pathology. No other masses or other abnormalities noted.
+
+Interventions:
+No interventions were performed during the procedure.
+
+Complications:
+No immediate complications were encountered during the procedure.
+
+Estimated Blood Loss: Minimal
+
+Specimens: 3 polyps, 5mm each.
+
+Post-Procedure:
+The patient tolerated the procedure well and was transferred to the recovery area in stable condition. Vital signs remained stable throughout the procedure and in the recovery period. The patient was instructed to follow up with their primary care physician and gastroenterologist to discuss the findings and further management of their diverticulosis.
+
+The patient was reminded to continue their Eliquis as prescribed and to report any signs of recurrent bleeding, severe abdominal pain, or other concerning symptoms.
+
+Recommendations:
+1. Follow a high-fiber diet to help manage diverticulosis and prevent complications.
+2. Consider antibiotic therapy if the patient develops signs of diverticulitis.
+3. Monitor for recurrent gastrointestinal bleeding and anemia.
+4. Continue regular follow-up with gastroenterology for surveillance of diverticulosis.

@@ -1,0 +1,58 @@
+Patient: Steven Chou
+DOB: 01/07/1959 (65 years old)
+Date of Visit: [Insert Date]
+
+Chief Complaint: Fatigue
+
+History of Present Illness:
+Mr. Steven Chou, a 65-year-old male with a past medical history of diabetes, atrial fibrillation, hypertension, and cholecystectomy, presents to the clinic with a primary complaint of fatigue. The patient reports experiencing a gradual onset of fatigue over the past [insert duration], which has been affecting his daily activities and quality of life. He denies any recent changes in his sleep pattern, diet, or medication regimen. The patient also denies any associated symptoms such as fever, weight loss, shortness of breath, chest pain, or palpitations.
+
+Current Medications:
+- Eliquis [insert dosage]
+- Lisinopril [insert dosage]
+- Aspirin [insert dosage]
+- Plavix [insert dosage]
+- Metoprolol [insert dosage]
+- Simvastatin [insert dosage]
+
+Past Medical History:
+- Diabetes
+- Atrial fibrillation
+- Hypertension
+- Cholecystectomy
+
+Allergies: [Insert any known allergies or "No Known Drug Allergies"]
+
+Review of Systems:
+- General: Fatigue, no fever, chills, or night sweats
+- Cardiovascular: No chest pain, palpitations, or edema
+- Respiratory: No shortness of breath or cough
+- Gastrointestinal: No abdominal pain, nausea, vomiting, or changes in bowel habits
+- Genitourinary: No dysuria, frequency, or urgency
+- Musculoskeletal: No joint pain, swelling, or stiffness
+- Neurological: No headaches, dizziness, or focal neurological deficits
+- Endocrine: No polydipsia, polyuria, or polyphagia
+- Hematologic: No easy bruising or bleeding
+- Psychiatric: No mood changes or depression
+
+Physical Examination:
+- Vital Signs: [Insert BP, HR, RR, Temp, SpO2]
+- General: Well-appearing, no acute distress
+- HEENT: Normocephalic, atraumatic, no thyromegaly or lymphadenopathy
+- Cardiovascular: Regular rate and rhythm, no murmurs, rubs, or gallops
+- Respiratory: Clear to auscultation bilaterally, no wheezes, rales, or rhonchi
+- Gastrointestinal: Soft, non-tender, non-distended, no organomegaly
+- Musculoskeletal: No joint swelling, erythema, or tenderness
+- Neurological: Alert and oriented, no focal deficits, normal gait and balance
+- Skin: No rashes, lesions, or ulcerations
+
+Assessment and Plan:
+Mr. Steven Chou is a 65-year-old male presenting with fatigue. Given his age and past medical history, it is essential to rule out any underlying medical conditions that may be contributing to his symptoms. The following workup and management plan is recommended:
+
+1. Order comprehensive metabolic panel, complete blood count, thyroid function tests, and iron studies to evaluate for anemia, electrolyte imbalances, renal or liver dysfunction, and thyroid disorders.
+2. Check HbA1c to assess diabetes control and adjust medications if necessary.
+3. Review current medications and consider adjusting dosages or discontinuing any potentially contributing to fatigue, in consultation with the patient's cardiologist and primary care physician.
+4. Encourage regular exercise, stress management techniques, and a balanced diet to improve overall energy levels.
+5. Schedule a follow-up appointment in 2-4 weeks to review test results and reassess symptoms.
+6. Consider referral to a sleep specialist if fatigue persists or if sleep apnea is suspected.
+7. Maintain open communication with the patient's cardiologist and primary care physician to ensure a coordinated care plan.

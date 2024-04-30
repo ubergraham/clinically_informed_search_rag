@@ -1,0 +1,49 @@
+Discharge Summary
+Patient Name: Steven Chou
+DOB: January 7, 1959 (65 years old)
+
+Date of Admission: 5/5/2016
+Date of Discharge: 5/10/2016
+
+Primary Diagnosis:
+Acute Myocardial Infarction (AMI)
+
+Secondary Diagnoses:
+1. Type 2 Diabetes Mellitus
+2. Atrial Fibrillation
+3. Hypertension
+4. Hyperlipidemia
+5. Status post Cholecystectomy
+
+Reason for Admission:
+Mr. Steven Chou, a 65-year-old male with a past medical history significant for diabetes, atrial fibrillation, hypertension, and cholecystectomy, presented to the emergency department with acute onset of substernal chest pain radiating to his left arm, associated with shortness of breath and diaphoresis.
+
+Hospital Course:
+Upon admission, the patient was hemodynamically stable. ECG showed ST-segment elevations in leads II, III, and aVF, consistent with an acute inferior wall myocardial infarction. Troponin levels were elevated. The patient was immediately taken for cardiac catheterization, which revealed a 95% occlusion of the right coronary artery. Successful percutaneous coronary intervention (PCI) with stent placement was performed. The patient was subsequently managed in the Coronary Care Unit (CCU).
+
+During his hospital stay, the patient's condition improved significantly. He remained stable and chest pain-free. Serial ECGs showed resolution of ST-segment elevations, and troponin levels trended downward. Echocardiogram revealed a left ventricular ejection fraction of 45% with mild hypokinesis of the inferior wall. The patient's diabetes, atrial fibrillation, and hypertension were well-controlled with his home medications. He received education on lifestyle modifications, including diet, exercise, and smoking cessation.
+
+Medications at Discharge:
+1. Eliquis (Apixaban) 5mg twice daily
+2. Lisinopril 20mg once daily
+3. Aspirin 81mg once daily
+4. Plavix (Clopidogrel) 75mg once daily
+5. Metoprolol Succinate ER 50mg once daily
+6. Simvastatin 40mg once daily
+7. Metformin 1000mg twice daily
+
+Discharge Instructions:
+1. Follow up with cardiologist, Dr. [Name], in 1 week.
+2. Adhere to prescribed medication regimen.
+3. Attend cardiac rehabilitation as scheduled.
+4. Monitor blood pressure and blood glucose levels at home.
+5. Follow a heart-healthy diet, low in salt and saturated fats.
+6. Engage in regular physical activity as tolerated, aiming for 30 minutes per day.
+7. Avoid smoking and limit alcohol consumption.
+8. Report any recurrent chest pain, shortness of breath, or other concerning symptoms immediately.
+
+Prognosis:
+The patient's prognosis is good, given the successful revascularization and his stable condition at discharge. Close follow-up and adherence to the prescribed treatment plan will be crucial in preventing future cardiovascular events and managing his chronic conditions.
+
+Dictated by: [Your Name], MD
+Senior Medical Resident

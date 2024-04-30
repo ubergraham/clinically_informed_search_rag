@@ -1,0 +1,57 @@
+Patient: Steven Chou
+DOB: 01/07/1959 (65 years old)
+Date of Visit: [Insert Date]
+
+Chief Complaint: Dizziness
+
+History of Present Illness:
+Mr. Steven Chou, a 65-year-old male with a past medical history significant for diabetes, atrial fibrillation, hypertension, and cholecystectomy, presents to the clinic with a primary complaint of dizziness. He reports experiencing intermittent episodes of lightheadedness and unsteadiness over the past [insert duration]. The patient describes the dizziness as a sensation of the room spinning around him, which worsens with sudden head movements and improves with rest. He denies any associated symptoms such as headache, ear pain, hearing loss, tinnitus, or focal neurological deficits. The patient also denies any recent falls, chest pain, palpitations, or syncope.
+
+Current Medications:
+- Eliquis [insert dosage]
+- Lisinopril [insert dosage]
+- Aspirin [insert dosage]
+- Plavix [insert dosage]
+- Metoprolol [insert dosage]
+- Simvastatin [insert dosage]
+
+Past Medical History:
+- Diabetes
+- Atrial fibrillation
+- Hypertension
+- Cholecystectomy
+
+Allergies: [Insert any known allergies or "No known drug allergies"]
+
+Review of Systems:
+- General: No fever, chills, or unintentional weight loss
+- HEENT: No headache, vision changes, or neck pain
+- Cardiovascular: No chest pain, palpitations, or edema
+- Respiratory: No shortness of breath or cough
+- Gastrointestinal: No nausea, vomiting, or abdominal pain
+- Genitourinary: No dysuria, frequency, or urgency
+- Musculoskeletal: No joint pain or swelling
+- Neurological: Positive for dizziness, no focal neurological deficits
+- Psychiatric: No anxiety or depression
+
+Physical Examination:
+- Vital Signs: [Insert BP, HR, RR, Temp, SpO2]
+- General: Well-appearing, no acute distress
+- HEENT: Normocephalic, atraumatic, PERRLA, EOMI, no nystagmus
+- Cardiovascular: Regular rate and rhythm, no murmurs, rubs, or gallops
+- Respiratory: Clear to auscultation bilaterally, no wheezes, rales, or rhonchi
+- Gastrointestinal: Soft, non-tender, non-distended, no organomegaly
+- Musculoskeletal: No joint swelling, erythema, or tenderness
+- Neurological: Alert and oriented x3, cranial nerves II-XII intact, normal strength and sensation, no focal deficits, negative Romberg test
+- Psychiatric: Normal affect, no signs of anxiety or depression
+
+Assessment and Plan:
+Mr. Steven Chou is a 65-year-old male presenting with dizziness. Given his age, past medical history of atrial fibrillation, and the nature of his symptoms, the differential diagnosis includes benign paroxysmal positional vertigo (BPPV), vestibular dysfunction, orthostatic hypotension, and less likely, a cerebrovascular event or cardiac arrhythmia.
+
+Plan:
+1. Order an ECG to assess for any cardiac arrhythmias or ischemic changes
+2. Check orthostatic vital signs to evaluate for orthostatic hypotension
+3. Perform Dix-Hallpike maneuver to assess for BPPV
+4. Consider referral to ENT for further evaluation of vestibular function if symptoms persist
+5. Adjust medications as needed based on findings (e.g., optimize blood pressure control, review anticoagulation)
+6. Educate patient on safety measures to prevent falls and schedule a follow-up visit in [insert timeframe] to reassess symptoms and response to interventions

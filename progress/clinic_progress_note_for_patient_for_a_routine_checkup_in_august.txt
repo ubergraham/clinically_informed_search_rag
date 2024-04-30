@@ -1,0 +1,56 @@
+Date: August 15, 2023
+Time: 10:30 AM
+Patient: Steven Chou
+DOB: January 7, 1959 (65 years old)
+MRN: 123456
+
+Chief Complaint:
+Mr. Chou presents for a routine checkup.
+
+History of Present Illness:
+Mr. Chou is a 65-year-old male with a past medical history of diabetes, atrial fibrillation, hypertension, and cholecystectomy. He reports no new complaints and states that his chronic conditions have been well-controlled with his current medications. He denies any chest pain, shortness of breath, palpitations, or dizziness. He also reports no abdominal pain or changes in bowel habits.
+
+Current Medications:
+1. Eliquis (Apixaban)
+2. Lisinopril
+3. Aspirin
+4. Plavix (Clopidogrel)
+5. Metoprolol
+6. Simvastatin
+
+Allergies:
+No known drug allergies.
+
+Review of Systems:
+- General: No fatigue, fever, or unintentional weight changes.
+- Cardiovascular: No chest pain, palpitations, or edema.
+- Respiratory: No shortness of breath, cough, or wheezing.
+- Gastrointestinal: No abdominal pain, nausea, vomiting, or changes in bowel habits.
+- Genitourinary: No dysuria, frequency, or urgency.
+- Neurological: No headaches, dizziness, or focal neurological deficits.
+
+Physical Examination:
+- Vital Signs: BP 128/78, HR 72 (regular), RR 16, Temp 98.6°F, SpO2 98% on room air
+- General: Well-appearing, no acute distress
+- HEENT: Normocephalic, atraumatic, PERRL, EOMI, no JVD
+- Cardiovascular: Regular rate and rhythm, no murmurs, rubs, or gallops
+- Respiratory: Clear to auscultation bilaterally, no wheezes, rales, or rhonchi
+- Abdomen: Soft, non-tender, non-distended, no organomegaly, well-healed cholecystectomy scar
+- Extremities: No edema, cyanosis, or clubbing
+- Neurological: Alert and oriented x3, no focal deficits, normal gait and balance
+
+Assessment and Plan:
+1. Diabetes: Well-controlled. Continue current management and monitor HbA1c.
+2. Atrial fibrillation: Stable on Eliquis. Continue current dose and monitor for any bleeding or thromboembolic events.
+3. Hypertension: Blood pressure at goal. Continue current medications and encourage lifestyle modifications.
+4. Hyperlipidemia: Continue simvastatin and monitor lipid panel.
+5. Status post cholecystectomy: No complications, well-healed surgical scar.
+
+Follow-up:
+- Schedule routine follow-up in 3 months
+- Obtain updated labs, including HbA1c, lipid panel, and renal function tests
+- Encourage continued adherence to medications and lifestyle modifications
+
+Signed,
+Dr. [Your Name]
+Senior Medical Resident

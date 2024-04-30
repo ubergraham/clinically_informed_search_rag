@@ -1,0 +1,44 @@
+Discharge Summary
+
+Patient Name: Steven Chou
+DOB: January 7, 1959 (65 years old)
+
+Date of Admission: 10/1/2017
+Date of Discharge: 10/7/2017
+
+Primary Diagnosis:
+- Lower gastrointestinal (GI) bleeding
+
+Secondary Diagnoses:
+- Type 2 Diabetes Mellitus
+- Atrial Fibrillation
+- Hypertension
+- Status post cholecystectomy
+
+Reason for Admission:
+Mr. Steven Chou, a 65-year-old male with a past medical history significant for diabetes, atrial fibrillation, hypertension, and cholecystectomy, presented to the emergency department with a chief complaint of lower GI bleeding. The patient reported passing maroon-colored stools for the past 2 days, accompanied by mild abdominal discomfort and fatigue.
+
+Hospital Course:
+Upon admission, the patient was hemodynamically stable. Initial laboratory studies revealed a hemoglobin level of 10.  The patient was started on intravenous fluids and pantoprazole for GI prophylaxis. Gastroenterology was consulted, and a colonoscopy was scheduled but given recent colonoscopy showing severe diverticulitis and the patient hemodynamically stable, GI opted not to perform repeat colonoscopy.
+
+During the hospitalization his hemoglobin levels remained stable, and he did not experience any further episodes of bleeding. The patient was gradually advanced to a regular diet, which he tolerated well. He was educated on the importance of maintaining a high-fiber diet and staying well-hydrated to prevent future diverticular bleeding episodes.
+
+Medications at Discharge:
+- Eliquis 
+- Lisinopril 
+- Aspirin 
+- Plavix 
+- Metoprolol 
+- Simvastatin 
+
+Discharge Instructions:
+- Follow up with gastroenterology in 2-4 weeks for a repeat colonoscopy to assess for healing and rule out any additional pathology.
+- Follow up with primary care physician in 1 week for a post-hospitalization check-up and to monitor blood pressure, diabetes, and INR.
+- Maintain a high-fiber diet and stay well-hydrated to prevent future diverticular bleeding episodes.
+- Report any recurrent bleeding, abdominal pain, or fever to your physician immediately.
+- Continue all prescribed medications as directed.
+
+Please don't hesitate to contact our office with any questions or concerns. Wishing you a smooth recovery, Mr. Chou.
+
+[Insert Physician Name]
+[Insert Physician Signature]

@@ -1,0 +1,66 @@
+Date: [Today's Date]
+
+Patient Name: Steven Chou
+DOB: January 7, 1959 (65 years old)
+MRN: [Medical Record Number]
+
+Chief Complaint:
+Mr. Chou presents to the clinic for a routine checkup.
+
+History of Present Illness:
+Mr. Chou is a 65-year-old male with a past medical history of diabetes, atrial fibrillation, hypertension, and cholecystectomy. He reports no new complaints and states that his chronic conditions have been well-controlled with his current medication regimen, which includes Eliquis, lisinopril, aspirin, Plavix, metoprolol, and simvastatin. He denies any chest pain, shortness of breath, palpitations, or dizziness. He also reports no abdominal pain or changes in bowel habits since his cholecystectomy.
+
+Past Medical History:
+1. Diabetes
+2. Atrial fibrillation
+3. Hypertension
+4. Cholecystectomy
+
+Medications:
+1. Eliquis
+2. Lisinopril
+3. Aspirin
+4. Plavix
+5. Metoprolol
+6. Simvastatin
+
+Allergies:
+None reported
+
+Social History:
+[Include relevant social history, such as smoking status, alcohol consumption, and occupation]
+
+Review of Systems:
+General: No fatigue, fever, or unintentional weight changes
+HEENT: No headaches, vision changes, or hearing loss
+Cardiovascular: No chest pain, palpitations, or edema
+Respiratory: No shortness of breath, cough, or wheezing
+Gastrointestinal: No abdominal pain, nausea, vomiting, or changes in bowel habits
+Genitourinary: No dysuria, frequency, or urgency
+Musculoskeletal: No joint pain, stiffness, or muscle weakness
+Neurological: No focal weakness, numbness, or tingling
+Psychiatric: No mood changes or sleep disturbances
+
+Physical Examination:
+Vital Signs: [Include blood pressure, heart rate, respiratory rate, and temperature]
+General: Well-appearing, no acute distress
+HEENT: Normocephalic, atraumatic; pupils equal, round, and reactive to light; oral mucosa moist
+Cardiovascular: Regular rate and rhythm, no murmurs, rubs, or gallops
+Respiratory: Clear to auscultation bilaterally, no wheezes, rales, or rhonchi
+Gastrointestinal: Soft, non-tender, non-distended; no organomegaly; well-healed cholecystectomy scar
+Extremities: No edema, cyanosis, or clubbing
+Neurological: Alert and oriented; no focal deficits
+
+Assessment and Plan:
+1. Diabetes: Well-controlled. Continue current management and monitor HbA1c.
+2. Atrial fibrillation: Stable on Eliquis. Continue current dose and monitor for any signs of bleeding.
+3. Hypertension: Blood pressure within goal range. Continue current medications and encourage lifestyle modifications.
+4. Cholecystectomy: No complications noted. No further intervention needed.
+5. Health maintenance: Up-to-date on age-appropriate screenings. Encourage regular exercise and a balanced diet.
+
+Follow-up:
+Return to clinic in 3 months for routine follow-up and medication refills. Advise patient to call the clinic or seek immediate medical attention if any new or worsening symptoms develop.
+
+[Signature]
+[Resident Name], MD
+Senior Medical Resident

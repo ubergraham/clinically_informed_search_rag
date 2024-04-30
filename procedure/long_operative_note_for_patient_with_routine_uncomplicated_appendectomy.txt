@@ -1,0 +1,32 @@
+Patient Name: Steven Chou
+DOB: 01/07/1959 (65 years old)
+
+Date of Operation: 1/2/2011
+Surgeon: James Constant
+Assistant: Ken Trauner
+Preoperative Diagnosis: Acute appendicitis
+Postoperative Diagnosis: Acute appendicitis
+Procedure: Laparoscopic appendectomy
+
+Indications: The patient is a 65-year-old male with a past medical history of diabetes, atrial fibrillation, hypertension, and cholecystectomy who presented to the emergency department with a 24-hour history of right lower quadrant abdominal pain, nausea, and low-grade fever. Physical examination and imaging studies were consistent with acute appendicitis, and the decision was made to proceed with laparoscopic appendectomy.
+
+Procedure Details:
+After obtaining informed consent, the patient was taken to the operating room and placed under general anesthesia. The abdomen was prepped and draped in the usual sterile fashion. A 10mm infraumbilical incision was made, and a Hasson trocar was inserted under direct visualization. Pneumoperitoneum was established to 15 mmHg. Two additional 5mm trocars were placed in the suprapubic region and left lower quadrant under direct visualization.
+
+Upon inspection of the abdominal cavity, the appendix was identified and found to be inflamed and edematous, consistent with acute appendicitis. The appendix was grasped with an atraumatic grasper, and the mesoappendix was divided using a harmonic scalpel. The base of the appendix was then ligated with two 2-0 Vicryl endoloops and transected. The appendix was removed through the 10mm trocar site. The abdominal cavity was irrigated with warm saline, and hemostasis was confirmed. The trocars were removed under direct visualization, and the fascial defect at the 10mm site was closed with 0-Vicryl suture. The skin incisions were closed with 4-0 Monocryl subcuticular sutures and dressed with Steri-Strips and sterile dressings.
+
+The patient tolerated the procedure well, and there were no intraoperative complications. Estimated blood loss was minimal. The patient was extubated in the operating room and transferred to the post-anesthesia care unit in stable condition.
+
+Specimens: Appendix sent to pathology for routine examination.
+
+Drains: None
+
+Complications: None
+
+Disposition: The patient will be admitted to the surgical floor for postoperative monitoring and pain management. DVT prophylaxis and early ambulation will be encouraged. The patient's home medications for atrial fibrillation and hypertension will be resumed as per cardiology recommendations. Diabetes management will be overseen by the endocrinology team. The patient is expected to have an uncomplicated postoperative course and will be discharged home when medically stable and tolerating a regular diet.
+
+[Insert Surgeon's Signature]
+[Insert Surgeon's Name]
+Dictated By: [Insert Name]
+Date: [Insert Date]
+Time: [Insert Time]

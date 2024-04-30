@@ -1,0 +1,57 @@
+Patient Name: Steven Chou
+DOB: 01/07/1959 (65 years old)
+Date of Visit: October [insert date], 20XX
+
+Chief Complaint:
+Mr. Chou presents to the clinic for a routine checkup.
+
+History of Present Illness:
+Mr. Chou is a 65-year-old male with a past medical history of diabetes, atrial fibrillation, hypertension, and cholecystectomy. He reports no new complaints or concerns. He denies any chest pain, shortness of breath, palpitations, or dizziness. He reports good adherence to his medication regimen, which includes Eliquis, lisinopril, aspirin, Plavix, metoprolol, and simvastatin.
+
+Past Medical History:
+1. Diabetes
+2. Atrial fibrillation
+3. Hypertension
+4. Cholecystectomy
+
+Medications:
+1. Eliquis
+2. Lisinopril
+3. Aspirin
+4. Plavix
+5. Metoprolol
+6. Simvastatin
+
+Allergies:
+No known drug allergies.
+
+Review of Systems:
+- General: No fatigue, fever, or unintentional weight changes.
+- Cardiovascular: No chest pain, palpitations, or edema.
+- Respiratory: No shortness of breath, cough, or wheezing.
+- Gastrointestinal: No abdominal pain, nausea, vomiting, or changes in bowel habits.
+- Genitourinary: No dysuria, frequency, or urgency.
+- Neurological: No headaches, dizziness, or focal neurological deficits.
+
+Physical Examination:
+- Vital Signs: BP 130/80, HR 72 (irregular), RR 16, Temp 98.6°F, SpO2 98% on room air
+- General: Well-appearing, no acute distress
+- HEENT: Normocephalic, atraumatic, PERRL, EOMI, no JVD
+- Cardiovascular: Irregular rhythm, no murmurs, rubs, or gallops
+- Respiratory: Clear to auscultation bilaterally, no wheezes, rales, or rhonchi
+- Abdomen: Soft, non-tender, non-distended, no organomegaly, well-healed cholecystectomy scar
+- Extremities: No edema, cyanosis, or clubbing
+- Neurological: Alert and oriented x3, no focal deficits
+
+Assessment and Plan:
+1. Diabetes - Continue current management, check HbA1c and fasting blood glucose today, and adjust medications as needed based on results.
+2. Atrial fibrillation - Stable on Eliquis, continue current dose. Monitor for any signs or symptoms of bleeding or stroke.
+3. Hypertension - Blood pressure well-controlled on current regimen, continue lisinopril and metoprolol.
+4. Hyperlipidemia - Continue simvastatin, check lipid panel today, and adjust dose as needed based on results.
+5. Status post cholecystectomy - No complications, continue to monitor.
+6. Antiplatelet therapy - Continue aspirin and Plavix for cardiovascular risk reduction.
+
+Follow-up:
+- Schedule a follow-up appointment in 3 months for routine monitoring.
+- Encourage lifestyle modifications, including a healthy diet, regular exercise, and stress management.
+- Provide education on the importance of medication adherence and monitoring for any adverse effects.

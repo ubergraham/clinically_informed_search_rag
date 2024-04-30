@@ -1,0 +1,45 @@
+Discharge Summary
+
+Patient Name: Steven Chou
+DOB: January 7, 1959 (65 years old)
+
+Date of Admission: 8/9/2017
+Date of Discharge: 8/11/2017
+
+Primary Diagnosis:
+- Lower gastrointestinal bleeding
+
+Secondary Diagnoses:
+- Type 2 Diabetes Mellitus
+- Atrial Fibrillation
+- Hypertension
+- Status post cholecystectomy
+
+Reason for Admission:
+Mr. Steven Chou, a 65-year-old male with a past medical history significant for diabetes, atrial fibrillation, hypertension, and cholecystectomy, presented to the emergency department with a chief complaint of hematochezia and lightheadedness. He was admitted for further evaluation and management of lower gastrointestinal bleeding.
+
+Hospital Course:
+In the ER, Mr. Chou was hemodynamically unstable with episodes of hypotension, so he was transfused 1 unit PRBCs for hypotension. His initial hemoglobin was 9.2 g/dL, and he was started on intravenous fluids and proton pump inhibitor therapy. Gastroenterology was consulted, and a colonoscopy was scheduled. After the ER he did not experience more episoes of hypotension.
+
+The colonoscopy revealed multiple diverticula throughout the colon, with evidence of recent bleeding in the sigmoid colon. No active bleeding was observed during the procedure. Hemostasis was achieved, and the patient remained stable throughout the procedure. Several small polyps were removed.
+
+Mr. Chou's hemoglobin levels were monitored closely during his hospital stay, and he received two units of packed red blood cells total. His hemoglobin stabilized at 11.5 g/dL. He tolerated a regular diet and had no further episodes of bleeding.
+
+The patient's home medications, including Eliquis, Lisinopril, Aspirin, Plavix, Metoprolol, and Simvastatin, were reviewed and continued during his hospital stay. He was educated on the importance of medication adherence and follow-up with his primary care physician and gastroenterologist.
+
+Discharge Medications:
+1. Eliquis 
+2. Lisinopril 
+3. Aspirin 
+4. Plavix 
+5. Metoprolol 
+6. Simvastatin 
+
+Discharge Instructions:
+1. Follow up with your primary care physician within 1 week of discharge.
+2. Follow up with your gastroenterologist within 4-6 weeks for a repeat colonoscopy to assess for any additional intervention needs.
+3. Maintain a high-fiber diet and stay well-hydrated to prevent constipation and straining during bowel movements.
+4. Report any recurrence of bleeding, abdominal pain, or changes in bowel habits to your physician immediately.
+5. Continue taking your medications as prescribed and do not stop any medication without consulting your physician.
+
+Please contact the discharging physician or your primary care physician if you have any questions or concerns.

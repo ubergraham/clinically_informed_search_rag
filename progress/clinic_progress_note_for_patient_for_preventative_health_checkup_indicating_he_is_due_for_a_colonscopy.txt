@@ -1,0 +1,54 @@
+Patient Name: Steven Chou
+DOB: 01/07/1959 (65 years old)
+Date of Visit: [Current Date]
+
+Chief Complaint: Preventative health checkup
+
+History of Present Illness:
+Mr. Steven Chou, a 65-year-old male with a past medical history significant for diabetes, atrial fibrillation, hypertension, and cholecystectomy, presents to the clinic for a routine preventative health checkup. The patient reports no acute complaints and denies any recent changes in his health status. He adheres to his prescribed medication regimen, which includes Eliquis, Lisinopril, Aspirin, Plavix, Metoprolol, and Simvastatin.
+
+Past Medical History:
+1. Diabetes
+2. Atrial fibrillation
+3. Hypertension
+4. Cholecystectomy
+
+Medications:
+1. Eliquis
+2. Lisinopril
+3. Aspirin
+4. Plavix
+5. Metoprolol
+6. Simvastatin
+
+Allergies: None reported
+
+Review of Systems:
+- General: No fatigue, fever, chills, or unintentional weight changes
+- Cardiovascular: No chest pain, palpitations, or edema
+- Respiratory: No shortness of breath, cough, or wheezing
+- Gastrointestinal: No abdominal pain, nausea, vomiting, or changes in bowel habits
+- Genitourinary: No dysuria, frequency, or urgency
+- Neurological: No headaches, dizziness, or sensory changes
+- Musculoskeletal: No joint pain, stiffness, or muscle weakness
+- Skin: No rashes, lesions, or changes in skin color
+- Psychiatric: No mood changes, anxiety, or depression
+
+Physical Examination:
+- Vital Signs: BP [X/Y], HR [X], RR [Y], Temp [Z], SpO2 [X]% on room air
+- General: Well-appearing, no acute distress
+- HEENT: Normocephalic, atraumatic, PERRL, EOMI, no JVD
+- Cardiovascular: Regular rate and rhythm, no murmurs, rubs, or gallops
+- Respiratory: Clear to auscultation bilaterally, no wheezes, rales, or rhonchi
+- Abdomen: Soft, non-tender, non-distended, no organomegaly, well-healed cholecystectomy scar
+- Extremities: No edema, cyanosis, or clubbing
+- Neurological: Alert and oriented x3, no focal deficits
+
+Assessment and Plan:
+1. Diabetes - Continue current management, monitor HbA1c and blood glucose levels
+2. Atrial fibrillation - Continue Eliquis, monitor for any bleeding or thromboembolic events
+3. Hypertension - Continue Lisinopril and Metoprolol, monitor blood pressure
+4. Hyperlipidemia - Continue Simvastatin, monitor lipid panel
+5. Preventative health - Patient is due for a colonoscopy screening given his age (65 years). Discussed the importance and benefits of colorectal cancer screening. Will refer to gastroenterology for scheduling. Continue routine health maintenance, including annual influenza vaccination and other age-appropriate screenings.
+
+Follow-up: Return to clinic in 3 months for routine follow-up and to discuss colonoscopy results. Advised patient to call the office with any concerns or changes in health status in the interim.

@@ -1,0 +1,59 @@
+Patient: Steven Chou
+DOB: 01/07/1959 (65 years old)
+Date of Visit: [Insert Date]
+
+Chief Complaint: Headaches
+
+History of Present Illness (HPI):
+Mr. Steven Chou, a 65-year-old male with a past medical history significant for diabetes, atrial fibrillation, hypertension, and cholecystectomy, presents to the clinic with a complaint of headaches. The patient reports experiencing headaches for the past [duration], describing them as [location, quality, severity, and radiation]. He notes that the headaches are [intermittent/constant] and are [aggravated/alleviated] by [specific factors]. Associated symptoms include [list any additional symptoms like visual disturbances, nausea, vomiting, photophobia, phonophobia, or neurological deficits]. The patient denies any recent head trauma, fever, or changes in vision.
+
+Current Medications:
+1. Eliquis [Dose, Frequency]
+2. Lisinopril [Dose, Frequency]
+3. Aspirin [Dose, Frequency]
+4. Plavix [Dose, Frequency]
+5. Metoprolol [Dose, Frequency]
+6. Simvastatin [Dose, Frequency]
+
+Past Medical History:
+1. Diabetes
+2. Atrial fibrillation
+3. Hypertension
+4. Cholecystectomy
+
+Allergies: [List any known allergies or "No Known Drug Allergies" (NKDA)]
+
+Review of Systems (ROS):
+- General: [Positive/Negative] for fatigue, weight changes, or fever
+- HEENT: [Positive/Negative] for vision changes, ear pain, or sinus congestion
+- Cardiovascular: [Positive/Negative] for chest pain, palpitations, or edema
+- Respiratory: [Positive/Negative] for shortness of breath, cough, or wheezing
+- Gastrointestinal: [Positive/Negative] for abdominal pain, nausea, vomiting, or changes in bowel habits
+- Genitourinary: [Positive/Negative] for dysuria, frequency, or urgency
+- Musculoskeletal: [Positive/Negative] for joint pain, stiffness, or muscle weakness
+- Neurological: [Positive/Negative] for dizziness, numbness, tingling, or focal weakness
+- Psychiatric: [Positive/Negative] for mood changes, anxiety, or depression
+
+Physical Examination:
+- Vital Signs: BP [X/Y], HR [X], RR [Y], Temp [Z], SpO2 [%]
+- General: Alert and oriented, well-appearing, no acute distress
+- HEENT: Normocephalic, atraumatic, PERRLA, EOMI, no scleral icterus or conjunctival injection
+- Cardiovascular: Regular rate and rhythm, no murmurs, rubs, or gallops
+- Respiratory: Clear to auscultation bilaterally, no wheezes, rales, or rhonchi
+- Gastrointestinal: Soft, non-tender, non-distended, no organomegaly
+- Neurological: CN II-XII grossly intact, no focal deficits, normal gait and coordination
+- Musculoskeletal: No joint swelling, erythema, or tenderness; normal range of motion
+- Skin: No rashes, lesions, or ulcerations
+
+Assessment and Plan:
+Mr. Steven Chou is a 65-year-old male presenting with headaches. Given his age and cardiovascular risk factors, it is essential to rule out potentially serious causes of headaches, such as temporal arteritis, intracranial hemorrhage, or mass lesions.
+
+1. Order a complete blood count (CBC), erythrocyte sedimentation rate (ESR), and C-reactive protein (CRP) to screen for infection or inflammation.
+2. Consider neuroimaging (CT or MRI of the brain) to exclude intracranial pathology.
+3. Perform a thorough neurological examination and assess for any focal deficits or signs of increased intracranial pressure.
+4. Review the patient's current medications and consider potential drug interactions or side effects that may contribute to headaches (e.g., Eliquis, Plavix).
+5. Provide symptomatic relief with over-the-counter analgesics (acetaminophen or ibuprofen) if not contraindicated.
+6. Schedule a follow-up visit in [X] weeks to reassess symptoms and review test results.
+7. Educate the patient on lifestyle modifications, such as stress reduction, proper sleep hygiene, and maintaining a headache diary to identify potential triggers.
+
+If the workup is unremarkable and the headaches persist, consider referral to a neurologist for further evaluation and management.
