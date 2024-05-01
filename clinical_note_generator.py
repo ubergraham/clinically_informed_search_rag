@@ -36,7 +36,7 @@ topics = [
         "topic": "Clinic progress note for patient for fatigue"},
     {"type": "progress",
         "topic": "Clinic progress note for patient for headaches"},
-    {"type": "progress", "topic": "Clinic progress note for patient for low blood sugars in the morning"}
+    {"type": "progress", "topic": "Clinic progress note for patient for low blood sugars in the morning"},
     {"type": "procedure",
         "topic": "Long operative note for patient with routine uncomplicated appendectomy"},
     {"type": "procedure", "topic": "Complete procedure note for patient on eliquis for diagnostic colonoscopy for GI bleeding found to have severe diverticulosis "}
